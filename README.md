@@ -19,7 +19,7 @@ My goal is to create a visualization and prepare a write up describing the simil
 
 #### _Creating a line charts:_ I Created a line charts that compares my city’s temperatures with the global temperatures. using plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable.
 
-#### **_Making observations:_** I made observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends ,  and I answered some questions like:
+#### **_Making observations:_ I made observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends ,  and I answered some questions like:
 
   - Is my city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
   - “How do the changes in my city’s temperatures over time compare to the changes in the global average?” 
