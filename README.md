@@ -2,11 +2,11 @@
 
 # Exploring Weather Trends Project
 
-###**Summary**
+### **Summary**
 
 In this project, I will analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-###**Instructions**
+### **Instructions**
 
 My goal is to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where I live. To do this, I followed the steps below:
 Extracting the data from the database: I needed to export the temperature data for the world as well as for the closest big city to where I live from a list of cities and countries in the city_list table. To interact with the database, I wrote a SQL queries. 
